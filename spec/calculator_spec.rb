@@ -1,4 +1,4 @@
-require "./lib/practice_calculator.rb"
+require "./lib/practice_calculator"
 
 describe Calculator do
   describe "#add" do
